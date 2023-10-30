@@ -1,0 +1,19 @@
+body {
+   
+    background-color: chocolate; 
+    
+}
+
+button {
+color: chocolate;
+background-color: lightgray;
+}
+
+h1, p {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
